@@ -1,3 +1,4 @@
+//Q1 Implement Matrix-Vector multiplication using OpenMP.
 #include<omp.h>
 #include<stdio.h>
 #include<stdlib.h>
