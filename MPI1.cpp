@@ -1,5 +1,5 @@
-// MPI1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+
+//Implement an MPI program to send integer from one process to another.
 
 #include <iostream>
 #include "mpi.h"
